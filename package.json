@@ -1,0 +1,27 @@
+{
+  "name": "breakoutgame",
+  "version": "1.0.0",
+  "description": "this is a good exercise",
+  "main": "GameLogicCanvas.js",
+  "dependencies": {
+    "eslint": "^5.0.1",
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeilSiao/breakoutGame_js.git"
+  },
+  "keywords": [
+    "yo"
+  ],
+  "author": "neil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeilSiao/breakoutGame_js/issues"
+  },
+  "homepage": "https://github.com/NeilSiao/breakoutGame_js#readme"
+}
